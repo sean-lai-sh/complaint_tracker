@@ -28,6 +28,8 @@ yarn-error.log*
 # local env files
 .env*.local
 
+ruby_hackathon_data.json
+
 # vercel
 .vercel
 
